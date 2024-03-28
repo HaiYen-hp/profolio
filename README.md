@@ -2,6 +2,7 @@
 
 # Education
 Engineer Computer Science, Hanoi University of Civil Engineering           09/2019 – 2023
+
 GPA: 3,28/4,0
 
 # Rewared
