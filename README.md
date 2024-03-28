@@ -35,6 +35,7 @@ GPA: 3,28/4,0
   - Understand business bond and real estate investment operations
   - Supporting developers to develop software
   - Supporting construction databases for projects
+
 **Dagoras Technology and Communications          2/2023 – now**
 **Data Analyst**
   - Participate in customer portrait analysis for each project.
