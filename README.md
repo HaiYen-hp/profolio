@@ -29,8 +29,9 @@ GPA: 3,28/4,0
 # EXPERIENCE
 **STECOM – Smart Technology Solution             12/2021 – 12/2022**
 **Tester**
-  - Testing Manual on some projects of company
+  - Testing Manual on some projects of the company
   - Testing Automation API using Postman
+
 **Business Analysis**
   - Understand business bond and real estate investment operations
   - Supporting developers to develop software
