@@ -10,22 +10,39 @@ GPA: 3,28/4,0
 - Top 7 students of computer science gain excellent scholarship semester 1 (2021-2022).
 - Top 10 students of computer science gain excellent scholarship semester 2 (2020-2021).
 # Academic Projects
-**Melbourne Housing Price Prediction** – Building model ML **Linear Regression** to predict housing prices in Melbourne. And discovered that the house has more number of rooms, bedrooms, and bathrooms then this has a higher price, the geographical location as longitude, and latitude located in the city center or near the city center makes the price high. Use Python and library sklearn, pandas, seaborn, scipy, numpy.
+- **Melbourne Housing Price Prediction** – Building model ML **Linear Regression** to predict housing prices in Melbourne. And discovered that the house has more number of rooms, bedrooms, and bathrooms then this has a higher price, the geographical location as longitude, and latitude located in the city center or near the city center makes the price high. Use Python and library sklearn, pandas, seaborn, scipy, numpy.
 
-**Give Me Some Credit** – Building model ML Decision Tree, Logistic Regression, and LightGBM in credit scoring by predicting possible person will encounter financial difficulties. Model LightGBM has the best result, with an accuracy of 87% on a training set and an accuracy of 86% on a testing set. Use programming language Python with libraries such as sklearn, pandas, numpy, lightgbm, seaborn, imblearn, scipy, shap.
+- **Give Me Some Credit** – Building model ML Decision Tree, Logistic Regression, and LightGBM in credit scoring by predicting possible person will encounter financial difficulties. Model LightGBM has the best result, with an accuracy of 87% on a training set and an accuracy of 86% on a testing set. Use programming language Python with libraries such as sklearn, pandas, numpy, lightgbm, seaborn, imblearn, scipy, shap.
 
-**Handwritten number recognition MNIST** – Handwritten number recognition uses the MNIST dataset. Use model Logistic Regression with softmax function and technique gradient descent. The programming language is Python attached with some libraries such as numpy, and scipy.
+- **Handwritten number recognition MNIST** – Handwritten number recognition uses the MNIST dataset. Use model Logistic Regression with softmax function and technique gradient descent. The programming language is Python attached with some libraries such as numpy, and scipy.
 
-**Detection Fruits** – Building model Neural Network for fruit recognition based on the Fruit 360 dataset. Writing by programming language Python and TensorFlow.
+- **Detection Fruits** – Building model Neural Network for fruit recognition based on the Fruit 360 dataset. Writing by programming language Python and TensorFlow.
 
-**Splitting Vietnamese word** – With the algorithm Ngram, we implement word separation on a dataset in websites of online newspaper pages. Writing by programming language Python.
+- **Splitting Vietnamese word** – With the algorithm Ngram, we implement word separation on a dataset in websites of online newspaper pages. Writing by programming language Python.
 
-**Mobile application used for selling books** – Based on technology: React native, C#.
+- **Mobile application used for selling books** – Based on technology: React native, C#.
 
-**Analytics and Statistics about E-commerce** – Statistical analysis of the development of E-commerce in Brazil based on the olist dataset on the Kaggle website. Building model semantic analysis from order reviews. Use techniques of natural language processing and model LogisticRegression to analyze reviews from users either positive or negative.
+- **Analytics and Statistics about E-commerce** – Statistical analysis of the development of E-commerce in Brazil based on the olist dataset on the Kaggle website. Building model semantic analysis from order reviews. Use techniques of natural language processing and model LogisticRegression to analyze reviews from users either positive or negative.
 
-**Model use for detection of Alzheimer's disease by model deep learning** – Implement model CNN to detect Alzheimer's disease through MRI image dataset. With an accuracy of 99% on 6400 MRI images with four classes corresponding with each disease state. Writing in Python with libraries such as pandas, numpy, tensorflow, matplotlib, plotly, seaborn, PIL, and streamlit.
+- **Model use for detection of Alzheimer's disease by model deep learning** – Implement model CNN to detect Alzheimer's disease through MRI image dataset. With an accuracy of 99% on 6400 MRI images with four classes corresponding with each disease state. Writing in Python with libraries such as pandas, numpy, tensorflow, matplotlib, plotly, seaborn, PIL, and streamlit.
 
+# EXPERIENCE
+**STECOM – Smart Technology Solution             12/2021 – 12/2022**
+**Tester**
+  - Testing Manual on some projects of company
+  - Testing Automation API using Postman
+**Business Analysis**
+  - Understand business bond and real estate investment operations
+  - Supporting developers to develop software
+  - Supporting construction databases for projects
+**Dagoras Technology and Communications          2/2023 – now**
+**Data Analyst**
+  - Participate in customer portrait analysis for each project.
+  - Use the programming language Python to analyze metrics, and parameters, and to draw visualization diagrams from data in the database of the company to get insights for ensuring and enhancing service quality.
+  - Use SQL statements to query the database to calculate metrics and parameters on the dashboard.
+**Data Science**
+  -	Implement model machine learning, and deep learning suitable for each business problem.
+  -	Use multiple techniques for preprocessing data, univariate and multivariate statistics, and in-depth analysis.
 # PROJECTS
 -	**Epic Center**, an application and management page that helps businesses manage financial transactions, bond investments, real estate, stocks, and cumulative investments. My job in this project is writing test cases and supporting the construct database, testing manual, and testing automation API on Postman.
 -	**Quản lý xây dựng Andes**, a management page that helps customer companies manage data related to the construction field, such as budgeting by cost categories, creating quotation forms, and paying for bidding packages. My job in this project is writing test cases and testing manuals.
